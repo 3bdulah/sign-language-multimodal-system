@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Generated at runtime (notebook)
+speech.mp3
+
+# GitHub file size limit is 100MB — keep large demo media local or use Git LFS / YouTube
+images/demo_video.mov
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
